@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Educational Statistics and Research Method
     institution: University of Arkansas
-    year: Expected May 2022
+    year: 2022 (expected)
   - course: MSc in Statistics
     institution: Montana State University
     year: 2018
