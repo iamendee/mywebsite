@@ -25,8 +25,8 @@ experience:
   - title: Graduate Research Assistant
     company: University of Arkansas
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: UARK_LOGO2
+    location: Fayetteville, Arkansas
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
