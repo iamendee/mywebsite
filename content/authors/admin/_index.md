@@ -18,8 +18,10 @@ bio: My research interests include rater-mediated models and Bayesian psychometr
 
 # Interests to show in About widget
 interests:
+- Educational and psychometric measurement models
 - Rater-mediated models
 - Bayesian psychometric methods
+- Large scale assessment
 
 # Education to show in About widget
 education:
