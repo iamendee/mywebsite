@@ -6,7 +6,7 @@ title: Nnamdi Ezike
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Doctoral Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
