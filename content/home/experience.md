@@ -49,6 +49,22 @@ experience:
         * Taught three semesters of College Algebra (M121)
         * Taught six semesters of Introduction of Statistics (STAT216)
         * Graduate tutor at the Math Learning Center
+  
+  
+  - title: Data Officer
+    company: Hanovia Limited
+    company_url: ''
+    company_logo: HANOVIA2
+    location: Abuja, Nigeria.
+    date_start: '2010-01-01'
+    date_end: '2015-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed and deployed electronic survey questionnaires using SurveyCTO and ODK
+        * Developed field data collection plans to guide data collection processes
+        * Data management and analyses
+        * Supported the Impact Evaluation Assessment of some World Bank assisted projects
 
   
   - title: Data Officer
