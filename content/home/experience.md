@@ -83,5 +83,5 @@ experience:
         * Supported the Impact Evaluation Assessment of some World Bank assisted projects
 
 design:
-  columns: '2'
+  columns: '3'
 ---
