@@ -51,14 +51,20 @@ experience:
         * Graduate tutor at the Math Learning Center
 
   
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Officer
+    company: Hanovia Limited
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: HANOVIA2
+    location: Abuja, Nigeria.
+    date_start: '2010-01-01'
+    date_end: '2015-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed and deployed electronic survey questionnaires using SurveyCTO and ODK
+        * Developed field data collection plans to guide data collection processes
+        * Data management and analyses
+        * Supported the Impact Evaluation Assessment of some World Bank assisted projects
 
 design:
   columns: '2'
