@@ -21,7 +21,7 @@ interests:
 - Educational and psychometric measurement models
 - Rater-mediated models
 - Bayesian psychometric methods
-- Large scale assessment
+- Large-scale assessment
 
 # Education to show in About widget
 education:
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nnamdi Ezike is a third-year doctoral student in Educational Statistics and Research Methods at the University of Arkansas. His primary research interests include item response theory models, rater-mediated models, and Bayesian psychometric methods.
+Nnamdi Ezike is a third-year doctoral candidate in Educational Statistics and Research Methods at the University of Arkansas. His primary research interests include item response theory models, rater-mediated models, and Bayesian psychometric methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
