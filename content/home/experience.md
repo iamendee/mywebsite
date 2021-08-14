@@ -28,7 +28,7 @@ experience:
     company_logo: ETS
     location: Princeton, New Jersey
     date_start: '2021-06-01'
-    date_end: '2021-08-06'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
