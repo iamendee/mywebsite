@@ -22,7 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching and Research Assistant
+  - title: Research Intern
+    company: Educational Testing Service
+    company_url: ''
+    company_logo: ETS
+    location: Princeton, New Jersey
+    date_start: '2021-06-01'
+    date_end: '2021-08-06'
+    description: |2-
+        Responsibilities include:
+        
+        * Performed Monte Carlo simulations to evaluate different adjudication rules for essay scoring
+  
+ 
+ - title: Graduate Teaching and Research Assistant
     company: University of Arkansas
     company_url: ''
     company_logo: UARK_LOGO2
