@@ -34,8 +34,7 @@ experience:
         
         * Performed Monte Carlo simulations to evaluate different adjudication rules for essay scoring
   
- 
- - title: Graduate Teaching and Research Assistant
+  - title: Graduate Teaching and Research Assistant
     company: University of Arkansas
     company_url: ''
     company_logo: UARK_LOGO2
