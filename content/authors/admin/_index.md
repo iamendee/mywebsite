@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Educational Statistics and Research Method
+  - course: PhD Candidate in Educational Statistics and Research Method
     institution: University of Arkansas
-    year: 2022 (expected)
+
   - course: MSc in Statistics
     institution: Montana State University
     year: 2018
@@ -39,7 +39,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:nnamdiezike87@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nnamdi Ezike is a third-year doctoral candidate in Educational Statistics and Research Methods at the University of Arkansas. His primary research interests include item response theory models, rater-mediated models, and Bayesian psychometric methods.
+I am currently a doctoral candidate in Educational Statistics and Research Methods at the University of Arkansas. My primary research interests include item response theory models, performance assessments, and Bayesian psychometric methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
