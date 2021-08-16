@@ -27,12 +27,12 @@ experience:
     company_url: ''
     company_logo: ETS
     location: Princeton, New Jersey
-    date_start: '2021-06-01'
-    date_end: '2021-08-06'
+    date_start: '2021-09-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Performed Monte Carlo simulations to evaluate different adjudication rules for essay scoring
+        * Work with the CR Team in Research and Development (R&D)
 
   - title: Research Intern
     company: Educational Testing Service
