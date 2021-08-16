@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
+        * Work with the Constructed-Response Team
 
   - title: Research Intern
     company: Educational Testing Service
