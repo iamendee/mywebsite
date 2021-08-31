@@ -65,4 +65,4 @@ highlight_name: false
 
 I am currently a doctoral candidate in Educational Statistics and Research Methods at the University of Arkansas. My primary research interests include item response theory models, performance assessments, and Bayesian psychometric methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/nnamdiezike_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/nnamdiezike_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
