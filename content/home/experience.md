@@ -71,7 +71,7 @@ experience:
         Responsibilities include:
         
         * Taught three semesters of College Algebra (M121)
-        * Taught six semesters of Introduction of Statistics (STAT216)
+        * Taught six semesters of Introduction to Statistics (STAT216)
         * Graduate tutor at the Math Learning Center
    
   - title: Data Officer
