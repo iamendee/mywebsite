@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Collegiate Associate
-    company: Educational Testing Service
+    company: Educational Testing Service (ETS)
     company_url: ''
     company_logo: ETS
     location: Princeton, New Jersey
@@ -35,7 +35,7 @@ experience:
         * Research related to performance assessments and automated scoring 
 
   - title: Research Intern
-    company: Educational Testing Service
+    company: Educational Testing Service (ETS)
     company_url: ''
     company_logo: ETS
     location: Princeton, New Jersey
