@@ -56,9 +56,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Teaching [ESRM 2403 - Statistics in Nursing]
+        * Teaching [ESRM 6653 - Measurement and Evaluation; ESRM 2403 - Statistics in Nursing]
         * Statistical Support Consultant at the Statistical and Measurement Support Services (SMSS)
-        * Research Assistant [Developing and Assessing Measures for Social Surveys (DAMSS)]
+        * Research Assistant for Developing and Assessing Measures for Social Surveys (DAMSS) team
   
   - title: Graduate Teaching Assistant
     company: Montana State University
