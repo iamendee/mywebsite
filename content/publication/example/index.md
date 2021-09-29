@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Bayesian Item Response Theory Model Selection: Conditional and Marginal Likelihoods"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
