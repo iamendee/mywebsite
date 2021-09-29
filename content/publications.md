@@ -1,6 +1,6 @@
 **Publications**
 
-**Ezike, N.C.**, & Ames, A. J. (In Press). The Diagnostic Rating System: Rater Behavior for an Alternative Performance Assessment Rating Method. _Psychological Test and Assessment Modeling_
+**Ezike, N.C.**, & Ames, A. J. (2021). The Diagnostic Rating System: Rater Behavior for an Alternative Performance Assessment Rating Method. _Psychological Test and Assessment Modeling, 63(3), 273-304._
 
 Ames, A. J., Leventhal, B. C., & **Ezike, N. C.** (2020). Monte Carlo Simulation in Item Response Theory Applications Using SAS. _Measurement: Interdisciplinary Research and Perspectives, 18(2), 55-74._
 
