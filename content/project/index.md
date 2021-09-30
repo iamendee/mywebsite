@@ -34,12 +34,7 @@ slides: example
 Bayesian information criteria are computed on conditional or marginal likelihoods. This study uses simulation technique to assess relative model-fit of three dichotomous (1PLM, 2PLM, and 3PLM) and three polytomous (GRM, PCM, and GPCM) item response theory models based on conditional and marginal likelihoods of three information criteria.
 
 ---
-title: Comparing Estimation Procedures for Omega Reliability with Non-Normal Ordinal Data
-summary: An example of using the in-built project page.
-tags:
-- Bayesian Inference
-- Model-data fit
-date: "2016-04-27T00:00:00Z"
+Comparing Estimation Procedures for Omega Reliability with Non-Normal Ordinal Data
 ---
 
 Omega coefficient is a measure of internal consistency reliability appropriate for tau-equivalent or congeneric items. In this study, a Monte Carlo simulation 
