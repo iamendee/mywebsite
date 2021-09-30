@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/iamendee
-url_code: ""
+url_code: "bayesian_modelfit"
 url_pdf: ""
 url_slides: ""
 url_video: ""
