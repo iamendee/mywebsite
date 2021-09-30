@@ -28,7 +28,5 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: bayesian_modelfit
 ---
-
-Bayesian information criteria are computed on conditional or marginal likelihoods. This study uses simulation technique to assess relative model-fit of three dichotomous (1PLM, 2PLM, and 3PLM) and three polytomous (GRM, PCM, and GPCM) item response theory models based on conditional and marginal likelihoods of three information criteria.
