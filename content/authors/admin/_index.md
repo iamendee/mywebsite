@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nnamdi Ezike
+title: Nnamdi Ezike, PhD
 
 # Is this the primary user of the site?
 superuser: true
