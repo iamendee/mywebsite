@@ -6,7 +6,7 @@ title: Nnamdi Ezike
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,15 +26,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate in Educational Statistics and Research Method
+  - course: PhD in Educational Statistics and Research Methods
     institution: University of Arkansas
+    year: 2022
 
   - course: MSc in Statistics
     institution: Montana State University
     year: 2018
   - course: Bsc in Statistics
     institution: Enugu State University of Technology
-    year: 2009
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a doctoral candidate in Educational Statistics and Research Methods at the University of Arkansas. My primary research interests include item response theory models, performance assessments, and Bayesian psychometric methods.
+I am currently a Research Assistant in the Educational Statistics and Research Methods program at the University of Arkansas. My fields of scholarship include item response theory models, performance assessments, and Bayesian psychometric methods. I also work with Educational Testing Service (ETS). My research work at ETS involves automated scoring of performance assessments. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "nnamdiezike_cv.pdf" "newtab" >}}curriculum vitaé{{< /staticref >}}.
