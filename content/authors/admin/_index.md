@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am Research Scientist at Human Resources Research Organization (HumRRO) in Alexandria, VA. I provide psychometric support for different HumRRO projects. My tasks include psychometric analyses, item parameter calibrations, and test scaling and equating. I also support testing efforts, including assembling test forms and maintaining longitudinal item banks.
+I am a Research Scientist at Human Resources Research Organization (HumRRO) in Alexandria, VA. I provide psychometric support for different HumRRO projects. My tasks include psychometric analyses, item parameter calibrations, and test scaling and equating. I also support testing efforts, including assembling test forms and maintaining longitudinal item banks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "nnamdiezike_cv.pdf" "newtab" >}}curriculum vitaé{{< /staticref >}}.
