@@ -6,19 +6,19 @@ title: Nnamdi Ezike, PhD
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Arkansas
-  url: https://www.uark.edu/
+- name: Human Resources Research Organization (HumRRO)
+  url: https://www.humrro.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include rater-mediated models and Bayesian psychometric methods.
 
 # Interests to show in About widget
 interests:
-- Educational and psychometric measurement models
+- Psychometric modeling
 - Performance assessments
 - Bayesian psychometric methods
 - Large-scale assessment
@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a Research Assistant in the Educational Statistics and Research Methods program at the University of Arkansas. My fields of scholarship include item response theory models, performance assessments, and Bayesian psychometric methods. I also work with Educational Testing Service (ETS). My research work at ETS involves automated scoring of performance assessments. 
+I am Research Scientist at Human Resources Research Organization (HumRRO) in Alexandria, VA. I provide psychometric support for different HumRRO projects. My tasks include psychometric analyses, item parameter calibrations, and test scaling and equating. I also support testing efforts, including assembling test forms and maintaining longitudinal item banks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "nnamdiezike_cv.pdf" "newtab" >}}curriculum vitaé{{< /staticref >}}.
